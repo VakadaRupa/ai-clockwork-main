@@ -1,3 +1,10 @@
+## 🎥 Video Walkthrough
+Here is the walkthrough of the project:
+
+Google Drive Link: https://drive.google.com/file/d/1GuD8wxpQIIItIIqOMHB5NUp2rbP8U7ak/view?usp=sharing
+
+
+
 # Welcome to your Lovable project
 
 ## Project info
